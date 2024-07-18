@@ -1,0 +1,111 @@
+.container{
+  width:100%;
+}
+
+.img-fluid {
+    max-width: 100%;
+    height: 325px;
+    border-radius: 0px;
+  }
+
+  .card-title1{
+    
+    font-weight:95px;
+    font-family:Arial, Helvetica, sans-serif;
+    padding-top: 20px;
+  }
+
+  nav ul { 
+    text-align: center;
+    list-style-type: none; 
+    margin: 10px; 
+    padding: 15px; 
+    width: 100%;
+    background-color: grey;
+
+}  
+nav li { 
+  display: inline-block; 
+  margin-right: 20px; 
+   box-sizing: border-box;
+} 
+nav a { 
+  text-decoration: none; 
+  color: #efecec; 
+  border: 0.5px solid black;
+}
+
+nav a:hover{
+  color:yellowgreen;
+}
+
+
+.card1 img{
+  height: 206px;
+}
+
+.card{
+  background-color: #efecec;
+  border: 0px;
+  border-radius: 0px;
+  margin-bottom: 15px;
+}
+
+.card-img{
+  height: 325px;
+}
+
+.container2{
+  margin-right: 191px;
+  margin-left: 191px;
+}
+
+.container2,.card-img-top1{
+  height: 200px;
+}
+
+.img-fluid1 {
+  max-width: 100%;
+  height: 250px;
+  border-radius: 0px;
+
+}
+.service{
+  padding-top: 250px;
+}
+
+h1{
+  padding-top: 100px;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h2{
+  padding-top: 80px;
+}
+
+
+
+.container3{
+  margin-right: 191px;
+  margin-left: 191px;
+}
+
+h3{
+  padding-top: 20px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+ 
+.button{
+  color:white;
+  background-color: black;
+  margin-left: 50px;
+}
+.button:hover{
+  background-color: yellowgreen;
+}
+
+.card-img2{
+  height:700px;
+}

@@ -1,0 +1,62 @@
+ nav ul { 
+    text-align: center;
+    list-style-type: none; 
+    margin: 10px; 
+    padding: 20px; 
+    background-color: grey;
+
+}  
+
+ nav li { 
+    display: inline-block; 
+    margin-right: 20px; /* Adjust the value as needed */
+     box-sizing: border-box;
+} 
+
+nav a { 
+    text-decoration: none; 
+    color: #333; 
+    box-sizing: border-box; */
+
+
+/* .first{
+    background-size:contain;
+    min-height: 160vh;
+    /* position:relative; */
+    color:white;
+    height: 10vh;
+} */
+
+
+.btn{
+    color:white;
+    background-color: green;
+    align-items: center;
+    justify-content: center;
+    padding-left: 20px;
+}
+.col-md-4{
+    width: 250px;
+    background-color: rgb(220, 217, 214);
+    align-items: center;
+    justify-content: center;
+   
+    margin-top: 10px;
+}
+
+.container1{
+    margin-left: 340px;
+    margin-top: 15px;
+}
+
+.card1 h5{
+    color:red;
+}
+
+.card2 h5{
+    color:rgb(89, 0, 255);
+}
+.card3 h5{
+    color:rgb(19, 18, 21);
+}
+
